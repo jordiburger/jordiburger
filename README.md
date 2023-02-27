@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordiburger
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently Full Stack
+- 🌱 I’m currently studying information systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
