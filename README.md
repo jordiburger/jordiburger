@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jordiburger
-- 👀 I’m interested in Web Development
+- 👀 I’m interested IT-Security and Data Analysis
 - 🌱 I’m currently studying information systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
